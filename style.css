@@ -14,7 +14,7 @@ nav {
     padding: 0rem calc( (100vw - 1300px) / 2);
 }
 
-.logo {
+nav .logo {
     color: black;
     font-size: x-large;
     font: weight ;
